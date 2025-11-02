@@ -4,12 +4,6 @@
   You can easily build mobile and web interfaces for any
   projects by simply dragging and dropping widgets.
 
-    Downloads, docs, tutorials: https://www.blynk.io
-    Sketch generator:           https://examples.blynk.cc
-    Blynk community:            https://community.blynk.cc
-    Follow us:                  https://www.fb.com/blynkapp
-                                https://twitter.com/blynk_app
-
   Blynk library is licensed under MIT license
   This example code is in public domain.
 
@@ -23,10 +17,7 @@
   in the Tools -> Board menu!
 
   Change WiFi ssid, pass, and Blynk auth token to run :)
-  Feel free to apply it to any other example. It's simple!
  *************************************************************/
-
-/* Comment this out to disable prints and save space */
 #define BLYNK_PRINT Serial
 
 
@@ -49,8 +40,8 @@ DHT dht(dhtpin, dhtType);
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "33";
-char pass[] = "Protagonist";
+char ssid[] = "Name";
+char pass[] = "Password";
 int flag = 0;
 
 BLYNK_WRITE(V2)
