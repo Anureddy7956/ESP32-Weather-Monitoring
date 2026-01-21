@@ -37,10 +37,10 @@ Install these libraries in Arduino IDE (**Sketch → Include Library → Manage 
 
 <img width="572" height="1049" alt="image" src="https://github.com/user-attachments/assets/d45f2d21-571c-4d9e-9aa8-aaafcd34d42c" />
 
-## Blynk dashboard 
+## Blynk dashboard output
 
 ![WhatsApp Image 2025-10-23 at 17 09 55](https://github.com/user-attachments/assets/5beef662-1194-4241-9d12-c9946529e541)
 
-## Temperature alert message via Bylnk
+## Temperature alert message through Bylnk IoT
 ![WhatsApp Image 2025-10-23 at 19 18 46](https://github.com/user-attachments/assets/5453d95a-51b8-438f-b93f-24bb5a417c7c)
 
